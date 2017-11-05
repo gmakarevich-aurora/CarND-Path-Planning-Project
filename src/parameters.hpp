@@ -23,14 +23,14 @@ constexpr int kTotalPointsInPath = 50;
 
 constexpr int kPlanningTrajectoryPoints = 55;
 
-constexpr double kMaxSpeedLimit = 47.5 * 0.44704;
+constexpr double kMaxSpeedLimit = 45.0 * 0.44704;
 constexpr double kMaxAllowedOverDist = 0.001;
 constexpr double kMinSpeedLimit = 10.0 * 0.44704;
 
 constexpr int kOtherVehiclesTrajectoriesToGenerate = 1;
 constexpr double kOtherVehicleSpeedStep = 4.0 * 0.44704;
 
-constexpr int kTrajectoriesToGenerate = 7;
+constexpr int kTrajectoriesToGenerate = 4;
 
 constexpr double kSpeedStep = 2.0 * 0.44704;
 
