@@ -21,7 +21,7 @@ constexpr double kInterpointTime = 0.02;
 // Number of points in the path.
 constexpr int kTotalPointsInPath = 50;
 
-constexpr int kPlanningTrajectoryPoints = 75;
+constexpr int kPlanningTrajectoryPoints = 55;
 
 constexpr double kMaxSpeedLimit = 45.0 * 0.44704;
 constexpr double kMaxAllowedOverDist = 0.001;
